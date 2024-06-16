@@ -11,17 +11,3 @@ TastyHealthy is a recipe web application where users can discover a variety of h
 3. Save favorite recipes for easy access.
 4. Favorite recipes are stored in the browser's local storage.
 
-### View the app (Hosted on Netlify):
-
- (https://food-verse-masud.netlify.app)
-
-### Technologies Used:
-
-TastyHealthy is built using React.js, React Router, and styled with Tailwind CSS for a sleek and responsive user interface.
-
-### How to Use this Repository?
-
-To get started with TastyHealthy, download or clone this repository to your local machine. Then, navigate to the project directory in your terminal and run the following command:
-
-```bash
-npm install
