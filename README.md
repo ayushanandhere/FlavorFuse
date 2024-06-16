@@ -13,7 +13,7 @@ TastyHealthy is a recipe web application where users can discover a variety of h
 
 ### View the app (Hosted on Netlify):
 
-[Click here to view TastyHealthy](https://tastyhealthy.netlify.app)
+ (https://food-verse-masud.netlify.app)
 
 ### Technologies Used:
 
